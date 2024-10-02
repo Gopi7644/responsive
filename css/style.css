@@ -192,3 +192,9 @@ img {
   left: 20px;
   text-align: justify;
 }
+.media a {
+  font-size: 20px;
+}
+.media h4 {
+  font-size: 40px;
+}
