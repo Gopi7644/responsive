@@ -187,3 +187,8 @@ h3 {
 }
 img {
 }
+.media {
+  position: absolute;
+  left: 20px;
+  text-align: justify;
+}
